@@ -21,3 +21,14 @@ This project focuses on analyzing operational and revenue-related data for a **D
 ---
 
 ## Project Structure
+business-data-analysis-dtdc/
+├── Python_API/
+    ├── open_route_service.py
+├── Reports/
+    ├── final_report.pdf
+    ├── mid_term_report.pdf
+    ├── proposal.pdf
+├── Analysis_Presentation.pptx
+├── Excel_Analysis.xlsx
+├── Power_BI_dashboard.pbix
+└── README.md
