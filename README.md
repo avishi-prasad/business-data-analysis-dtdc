@@ -32,3 +32,6 @@ business-data-analysis-dtdc/
 - ├── Excel_Analysis.xlsx
 - ├── Power_BI_dashboard.pbix
 - └── README.md
+
+## Notes
+This project was developed as part of coursework for the BS in Data Science program at IIT Madras and reflects independent implementation and learning.
